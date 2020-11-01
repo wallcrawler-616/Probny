@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\rows\rows\bin\Debug\rows.exe.config
+C:\Users\admin\source\repos\rows\rows\bin\Debug\rows.exe
+C:\Users\admin\source\repos\rows\rows\bin\Debug\rows.pdb
+C:\Users\admin\source\repos\rows\rows\obj\Debug\rows.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\rows\rows\obj\Debug\MainWindow.g.cs
+C:\Users\admin\source\repos\rows\rows\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\rows\rows\obj\Debug\rows_MarkupCompile.cache
+C:\Users\admin\source\repos\rows\rows\obj\Debug\rows_MarkupCompile.lref
+C:\Users\admin\source\repos\rows\rows\obj\Debug\MainWindow.baml
+C:\Users\admin\source\repos\rows\rows\obj\Debug\rows.g.resources
+C:\Users\admin\source\repos\rows\rows\obj\Debug\rows.Properties.Resources.resources
+C:\Users\admin\source\repos\rows\rows\obj\Debug\rows.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\rows\rows\obj\Debug\rows.exe
+C:\Users\admin\source\repos\rows\rows\obj\Debug\rows.pdb

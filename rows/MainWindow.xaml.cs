@@ -30,7 +30,7 @@ namespace rows
             RowDefinition rowDef1;
             for (int i = 0; i < 3; i++)
             {
-                for (int f = 0; f < 3; f++)
+                for (int f = 1; f < 3; f++)
                 {
                     rowDef1 = new RowDefinition();
                     grid1.RowDefinitions.Add(rowDef1);
